@@ -80,8 +80,8 @@ It turned out that there are 6 customers who are on both lists of queries 7 and 
 
 ## Query 9
 
-In addition to the perspective of customers, I wanted to look at what film that generates the most income, so that the business can have more inventory of the film DVDs.
+In addition to the perspective of customers, I wanted to look at what film that generates the most income, so that the business can have more inventory of the film DVDs to capture potential rental income.
 
 ## Query 10
 
-Finally, I wanted to look at it from a higher level by film category, so that the business can bought DVDs for those popular film category to suit customer needs.
+Finally, I wanted to look at it from a higher level by film category, so that the business can buy DVDs for those popular film categories to suit customer needs.
