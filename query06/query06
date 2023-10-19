@@ -1,0 +1,10 @@
+WITH daily_rentals AS (
+	SELECT DATE(rental_date) AS rent_date, COUNT(rental_id) AS rental_count
+	FROM rental
+	GROUP BY rent_date
+	ORDER BY rent_date)
+
+SELECT AVG(rental_count) AS avg_rental_count,
+       MAX(rental_count) AS max_rental_count,
+       MIN(rental_count) AS min_rental_count
+FROM daily_rentals
