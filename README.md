@@ -21,7 +21,7 @@ country – stores country names.
 
 # Entity-Relationship Model (ER Model) of the DVD Rental database
 
-https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png
+![Entity-Relationship Model (ER Model) of the DVD Rental database](https://www.postgresqltutorial.com/wp-content/uploads/2018/03/dvd-rental-sample-database-diagram.png)
 
 # Queries Explanation
 
@@ -49,7 +49,7 @@ It turned out that there are no records in the query results, which is good news
 
 ## Query 5
 
-As the data appears to be clean, we can perform some exploratory data analysis. I wanted to figure out the number of rentals on each date.
+As the data appears to be clean, I can perform some exploratory data analysis. I wanted to figure out the number of rentals on each date.
 
 ## Query 6
 
@@ -57,7 +57,7 @@ Based on the above table using CTE, I obtained the average, maximum and minimum 
 
 ## Query 7
 
-The business loves to know who the loyal customers are, so that it may give some offers for customer retention. Here I only picked the top 10 customers who has the most rentals.
+The business loves to know who the loyal customers are, so that it may give some offers retain customers. Here I only picked the top 10 customers who has the most rentals.
 
 ## Query 8
 
@@ -67,8 +67,8 @@ It turned out that there are 6 customers who are on both lists of queries 7 and 
 
 ## Query 9
 
-In addition to the perspective of film, we can look at what film that generates the most income. 
+In addition to the perspective of customers, I wanted to look at what film that generates the most income, so that the business can have more inventory of the film DVDs.
 
 ## Query 10
 
-
+Finally, I wanted to look at it from a higher level by film category, so that the business can bought DVDs for those popular film category to suit customer needs.
